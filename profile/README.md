@@ -9,7 +9,7 @@ Welcome to the **CollabSphere** repository! This is a space where collaboration 
 Follow these steps to get involved:
 
 1. **Join Our Community**
-    - Start by joining our Slack server to connect with other collaborators.
+    - Start by joining our Discord server to connect with other collaborators.
 
 2. **Explore the Repository**
     - Check out the `README` files in each project folder to understand their purpose and how you can contribute.
@@ -35,7 +35,7 @@ Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) to maintain a r
 
 ## Contact
 If you have any questions or ideas, feel free to reach out via:
-- Slack: [Join here](#)
+- Discord: [Join here](https://discord.gg/37YzxJj5)
 - GitHub Issues: Open a discussion or report an issue
 
 Let’s create something amazing together! 🚀
